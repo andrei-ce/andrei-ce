@@ -3,9 +3,9 @@
 ---
 
 ### About me 👨🏻‍💻
-I am Brazilian/Italian curious about how the web is built. 
+I got curious about how the web is built, so I bought some online courses to dip my toes in the waters. After that I immediately looked for an intensive bootcamp, learnt the MERN stack, and a few weeks after graduation I began working as a FullStack Web Developer. It's been over a year now and I look back with no regrets :)
 
-### Tech Stack:
+### Tech Stack 
 My current preferred stack is NodeJS, React, Redux (when needed), and MongoDB, but I am always trying to experiment with new libraries & technologies.
 
 ### My learning pipeline 🌱
@@ -19,7 +19,7 @@ My current preferred stack is NodeJS, React, Redux (when needed), and MongoDB, b
 - Python
 
 ### Some deployed apps 🚀
-- [MyTinerary](https://mytinerary-ac.herokuapp.com/) Used MaterialUI, React/Redux, NodeJS, Express and MongoDB to create user owned curated itineraries for best spots in different towns
+- [MyTinerary](https://mytinerary-ac.herokuapp.com/): Used MaterialUI, React/Redux, NodeJS, Express and MongoDB to create user owned curated itineraries for best spots in different towns
 - [DevConnector](https://devconnector-ac.herokuapp.com/profile/5e74b94cdb8e42859be4567a): Experimenting with React Hooks & GitHub API to create a social netork mvp
 - [Transparent Government in Fact](https://andrei-ce.github.io/TGiF/): Used Vanilla JS, HTML, CSS to build a website that fetches data from US Congress and presents simple statistics
 
