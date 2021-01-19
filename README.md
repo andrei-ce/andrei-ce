@@ -1,8 +1,7 @@
-## Hey there, I'm Andrei 👋 
-
----
+# Hey there, I'm Andrei 👋 
 
 ### About me 👨🏻‍💻
+
 I got curious about how the web is built, so I bought some online courses to dip my toes in the waters. After that I immediately looked for an intensive bootcamp, learnt the MERN stack, and a few weeks after graduation I began working as a FullStack Web Developer. It's been over a year now and I look back with no regrets :)
 
 ### Tech Stack 🛠
@@ -33,4 +32,4 @@ My current preferred stack is NodeJS, React, Redux (when needed), and MongoDB, b
 [![Andrei's github stats](https://github-readme-stats.vercel.app/api?username=andrei-ce)](https://github.com/andrei-ce/github-readme-stats)
 
 ### Contact ✉️
-Reach out to me through my [LinkedIn profile](https://www.linkedin.com/in/andreice/)
+To learn more about me visit/contact my [LinkedIn profile](https://www.linkedin.com/in/andreice/)
