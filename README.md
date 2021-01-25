@@ -9,6 +9,7 @@ My current preferred stack is NodeJS, React, Redux (when needed), and MongoDB, b
 
 ### My learning pipeline 🌱
 *(last updated on Jan/2021)*
+- Next.js (currently working on SPA)
 - SQL (50%)
 - Websockets (30%)
 - React Native (30%)
