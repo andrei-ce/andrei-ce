@@ -1,4 +1,4 @@
-# Hey there, I'm Andrei 👋 
+# I'm Andrei 👋 
 
 ### About me 👨🏻‍💻
 
