@@ -9,19 +9,19 @@ My current preferred stack is NodeJS, React, Redux (when needed), and MongoDB, b
 
 ### My learning pipeline 🌱
 *(last updated on Jan/2021)*
-- Next.js (currently working on SPA)
-- SQL (50%)
-- Websockets (30%)
-- React Native (30%)
-- Sass & BEM (30%)
-- GraphQL
-- Typescript
-- Python
+- React (80%): 1 year experience, but always improving!
+- SQL (25%): I am more confortable with mongoDB, but SQL is important too.
+- Next.js (25%): I learned next routing, seo, api, server side rendering.
+- React Native (25%): I learned about component styling, new (mobile) components, and navigation v5.
+- GraphQL (10%): Just dipped my toes
+- Typescript: TBD
+- Python: TBD
 
 ### Some deployed apps 🚀
 - [MyTinerary](https://mytinerary-ac.herokuapp.com/): Used MaterialUI, React/Redux, NodeJS, Express and MongoDB to create user owned curated itineraries for best spots in different towns
+- [DnD Quiz](https://dnd-quiz.andrei-ce.vercel.app/): A quick quizz app that uses React and Styled Components, but that I used mainly to get to know Next.js & Vercel features such as SEO, Server Side Rendering, Internal routes and public API routes(with React). The 4 links on the bottom load external (other quizzes) API data & theme colors.
 - [DevConnector](https://devconnector-ac.herokuapp.com/profile/5e74b94cdb8e42859be4567a): Experimenting with React Hooks & GitHub API to create a social netork mvp
-- [Transparent Government in Fact](https://andrei-ce.github.io/TGiF/): Used Vanilla JS, HTML, CSS to build a website that fetches data from US Congress and presents simple statistics
+- [Transparent Government in Fact](https://andrei-ce.github.io/TGiF/): Vanilla JS, HTML, CSS to build a website that fetches data from US Congress and presents attendance & voting statistics
 
 ### Hobbies 🤓
 - Bicycles 🚲 
