@@ -10,9 +10,9 @@ My current preferred stack is NodeJS, React, Redux (when needed), and MongoDB, b
 ### My learning pipeline 🌱
 *(last updated on Jan/2021)*
 - React (80%): 1 year experience, but always improving!
-- SQL (25%): I am more confortable with mongoDB, but SQL is important too.
-- Next.js (25%): I learned next routing, seo, api, server side rendering.
-- React Native (25%): I learned about component styling, new (mobile) components, and navigation v5.
+- SQL (25%): I am more confortable with mongoDB, but SQL is important too
+- Next.js (25%): I learned next routing, seo, api, server side rendering
+- React Native (25%): I learned about component styling, new (mobile) components, and navigation v5
 - GraphQL (10%): Just dipped my toes
 - Typescript: TBD
 - Python: TBD
