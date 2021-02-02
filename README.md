@@ -2,15 +2,19 @@
 
 ### About me 👨🏻‍💻
 
-I got curious about how the web is built, so I bought some online courses to dip my toes in the waters. After that I immediately looked for an intensive bootcamp, learnt the MERN stack, and a few weeks after graduation I began working as a FullStack Web Developer. It's been over a year now and I look back with no regrets :)
+I got curious about how the web works, so I bought some online courses in 2019. After getting hooked on it, I immediately looked for an intensive on site bootcamp, learnt the MERN stack, and a few weeks after graduation I began working as a Jr. FullStack Web Developer for a start-up in Barcelona.
 
 ### Tech Stack 🛠
-My current preferred stack is NodeJS, React, Redux (when needed), and MongoDB, but I am always trying to experiment with new libraries & technologies.
+- Node.js
+- React & Redux when needed
+- MongoDB 
+- Express.js
+- new libraries & technologies welcomed!
 
 ### My learning pipeline 🌱
 *(last updated on Jan/2021)*
 - React (80%): 1 year experience, but always improving!
-- SQL (25%): I am more confortable with mongoDB, but SQL is important too
+- PostgreSQL (25%): I am more confortable with mongoDB, but SQL is important too
 - Next.js (25%): I learned next routing, seo, api, server side rendering
 - React Native (25%): I learned about component styling, new (mobile) components, and navigation v5
 - GraphQL (10%): Just dipped my toes
