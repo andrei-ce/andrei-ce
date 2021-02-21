@@ -24,7 +24,7 @@ I got curious about how the web works, so I bought some online courses in 2019. 
 ### Some deployed apps 🚀
 - [MyTinerary](https://mytinerary-ac.herokuapp.com/): Used MaterialUI, React/Redux, NodeJS, Express and MongoDB to create user owned curated itineraries for best spots in different towns
 - [DnD Quiz](https://dnd-quiz.andrei-ce.vercel.app/): A quick quizz app that uses React and Styled Components, but that I used mainly to get to know Next.js & Vercel features such as SEO, Server Side Rendering, Internal routes and public API routes(with React). The 4 links on the bottom load external (other quizzes) API data & theme colors.
-- [DevConnector](https://devconnector-ac.herokuapp.com/profile/5e74b94cdb8e42859be4567a): Experimenting with React Hooks & GitHub API to create a social netork mvp
+- [Bookshelf](https://bookshelf-ac.herokuapp.com/): Experimenting with Chakra UI (themes, light/dark modes...), using React (hooks), Redux, MongoDB, Express & NodeJs
 - [Transparent Government in Fact](https://andrei-ce.github.io/TGiF/): Vanilla JS, HTML, CSS to build a website that fetches data from US Congress and presents attendance & voting statistics
 
 ### Hobbies 🤓
