@@ -12,13 +12,14 @@ I got curious about how the web works, so I bought some online courses in 2019. 
 - new libraries & technologies welcomed!
 
 ### My learning pipeline 🌱
-*(last updated on Jan/2021)*
+*(last updated on Feb/2021)*
 - React (80%): 1 year experience, but always improving!
-- PostgreSQL (25%): I am more confortable with mongoDB, but SQL is important too
-- Next.js (25%): I learned next routing, seo, api, server side rendering
+- Next.js (50%): I learned next routing, seo, api, server side rendering. Studying serverless functions
+- PostgreSQL, Sequelize (25%): I am more confortable with mongoDB, but SQL is the way to go in many architectures
 - React Native (25%): I learned about component styling, new (mobile) components, and navigation v5
+- Typescript(25%): I have tested simple examples on Node.js and React.js
 - GraphQL (10%): Just dipped my toes
-- Typescript: TBD
+- TypeORM: TBD
 - Python: TBD
 
 ### Some deployed apps 🚀
