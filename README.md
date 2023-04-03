@@ -17,8 +17,8 @@ I have always worked in tech: business analyst for a big telecom and IoT company
 - Next.js (50%): I learned next routing, seo, api, server side rendering. Now studying serverless functions
 - Typescript(50%): I have worked professionaly on small improvements on Node.js and React.js
 - PostgreSQL, Sequelize (50%): I am more confortable with mongoDB, but SQL is the way to go in many architectures
-- GraphQL (10%): Just dipped my toes by applying it on an e-commerce personal project
-- Java (10%): Just dipped my toes by building an API that consumes images and adds a little bit of flavor to them
+- GraphQL (10%): I've applied it on an e-commerce personal project
+- Angular, C#, Java (10%): Technologies I've used just for small projects or small improvements in large projects
 
 ### Some deployed apps 🚀
 
