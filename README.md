@@ -37,7 +37,8 @@ I have always worked in tech: business analyst for a big telecom and IoT company
 - History 📖
 - Snowboarding 🏂
 
-[![Andrei's github stats](https://github-readme-stats.vercel.app/api?username=andrei-ce)](https://github.com/andrei-ce/github-readme-stats)
+![Andrei's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrei-ce&show_icons=true&theme=drakula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrei-ce)](https://github.com/andrei-ce/github-readme-stats)
 
 ### Contact ✉️
 To learn more about me visit/contact my [LinkedIn profile](https://www.linkedin.com/in/andreice/)
