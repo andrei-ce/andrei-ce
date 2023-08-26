@@ -1,7 +1,5 @@
 # I'm Andrei 👋 
 
-## Under Contruction 🏗️
-
 ### About me 👨🏻‍💻
 
 I have always worked in tech: business analyst for a big telecom and IoT company, Product Manager for a e-learning app, full-stack developer for a pet food service app and a virtual meeting platform. I've always been a fan of simplifying life though computers and connectivity, and in 2020 I an opportunity to learn how and web application works. So as a curious person I started to learn it by myself and eventually attended intensive on-site MERN bootcamp. A few weeks after the bootcamp graduation I broke into the software development market as a FullStack Web Developer for a start-up in Barcelona.
@@ -21,7 +19,7 @@ I have always worked in tech: business analyst for a big telecom and IoT company
 - GraphQL: Applied on a personal e-commerce project
 - C# & Java: technologies I've used for small projects or small improvements in large projects
 
-### Some deployed apps 🚀
+### Some deployed apps 🚀 [ under contruction 🏗️ ]
 
 - [DnD Quiz](https://dnd-quiz.andrei-ce.vercel.app/): A quick quizz app that uses React and Styled Components, but that I used mainly to get to know Next.js & Vercel features such as SEO, Server Side Rendering, Internal routes and public API routes(with React). The 4 links on the bottom load external (other quizzes) API data & theme colors.
 - [Transparent Government in Fact](https://andrei-ce.github.io/TGiF/): Vanilla JS, HTML, CSS to build a website that fetches data from US Congress and presents attendance & voting statistics
