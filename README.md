@@ -15,11 +15,12 @@ I have always worked in tech: business analyst for a big telecom and IoT company
 
 ### My learning pipeline 🌱
 *(last updated on Aug/23)*
+- Systems Design @[Educative.io](https://www.educative.io/path/deep-dive-into-system-design-interview)
 - Node, React & Next.js: experienced, but always improving!
 - Docker & Typescript: intermediate
-- Systems Design @[Educative.io](https://www.educative.io/path/deep-dive-into-system-design-interview)
-- GraphQL: Applied on a personal e-commerce project
-- C# & Java: technologies I've used for small projects or small improvements in large projects
+- Reactive Native: beginner, applied on a handful of projects
+- GraphQL: beginner, applied on a personal e-commerce project
+- C# & Java: wet feet, technologies I've used for small projects or small improvements in large projects
 
 ### Some deployed apps 🚀
 *(section needs update 🏗️)*
