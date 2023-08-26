@@ -6,6 +6,7 @@ I have always worked in tech: business analyst for a big telecom and IoT company
 
 ### Tech Stack 🛠
 *(opened to learn more tools)*
+
 - Typescript
 - Node (Express, Fastify and exploring Nest)
 - React (including Next and state managers e.g. Redux)
