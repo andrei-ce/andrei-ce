@@ -37,6 +37,7 @@ I have always worked in tech: business analyst for a big telecom and IoT company
 - History 📖
 - Snowboarding 🏂
 
+### Programming Languages (excluding private repos)
 [![Top Langs (excludes private repos)](https://github-readme-stats.vercel.app/api/top-langs/?username=andrei-ce)](https://github.com/andrei-ce/github-readme-stats)
 
 ### Contact ✉️
