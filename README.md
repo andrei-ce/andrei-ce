@@ -2,7 +2,7 @@
 
 ### About me 👨🏻‍💻
 
-I have always worked in tech: business analyst for a big telecom and IoT company, Product Manager for a e-learning app, full-stack developer for a pet food service app and a virtual meeting platform. I've always been a fan of simplifying life though computers and connectivity, and in 2020 I an opportunity to learn how and web application works. So as a curious person I started to learn it by myself and eventually attended intensive on-site MERN bootcamp. A few weeks after the bootcamp graduation I broke into the software development market as a FullStack Web Developer for a start-ups in Barcelona.
+I have always loved and worked in tech: business analyst for a big telecom and IoT company, Product Manager for a e-learning app, full-stack developer for a pet food service app and a virtual meeting platform. Throughout my life I've experienced first hand how the internet and software changed people's life. In 2020, because of life circumstances, I ws faced witn an opportunity to take a detour in my carreer and learn how to build web applications. So as a curious person, I started to learn it by myself and then attended an intensive on-site MERN bootcamp in Barcelona. This detour became the main road ever since.
 
 ### Tech Stack 🛠
 *(opened to learn more tools)*
