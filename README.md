@@ -5,7 +5,6 @@ I have always loved and worked in tech: strategy development for a big telecom a
 
 ### Tech Stack 🛠
 *(opened to learn more tools)*
-
 - Typescript
 - Node (Express, Fastify and exploring Nest)
 - React (including Next and state managers e.g. Redux)
@@ -22,7 +21,6 @@ I have always loved and worked in tech: strategy development for a big telecom a
 - C# & Java: feet in the water. Technologies I've used for small projects or small improvements in large projects
 
 ### Some deployed apps 🚀
-*(section needs update 🏗️)*
 
 - [Calme](https://calme-mu.vercel.app): Scheduling full-stack application using server side functions from Next. For the UI I used my own (wip) [design system](https://www.npmjs.com/package/@celoco-ui/react), which leverages Radix UI. This app syncs to your google calendar email.
 - [DnD Quiz](https://dnd-quiz.andrei-ce.vercel.app/): A quick quizz app that uses React and Styled Components, but that I used mainly to get to know Next.js & Vercel features such as SEO, Server Side Rendering, Internal routes and public API routes(with React). The 4 links on the bottom load external (other quizzes) API data & theme colors.
