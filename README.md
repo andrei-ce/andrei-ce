@@ -1,6 +1,6 @@
 ### About me 👨🏻‍💻
 
-I'm Andrei 👋 
+I'm Andrei 👋   
 I have always loved and worked in tech: strategy development for a big telecom and IoT company, product management for a e-learning app, and full-stack development for a pet food service app and a virtual meeting platform. Throughout my life I've experienced first hand how the internet and software changed people's life. In 2020, I moved between countries (once more) and was faced with an opportunity to take a detour in my carreer and learn how to build web applications. As a curious person, I jumped head first and started to learn it by myself. I then attended an intensive on-site MERN bootcamp in Barcelona. This detour became my main road ever since!
 
 ### Tech Stack 🛠
